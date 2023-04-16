@@ -1,6 +1,0 @@
-package com.jspiders.multithreadingTask.resource;
-
-public class Resource {
-	int noOfBikes;
-	
-}
