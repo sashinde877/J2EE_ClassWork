@@ -1,0 +1,9 @@
+package com.jspiders.multithreading.threads;
+
+import com.jspiders.multithreading.resources.Account;
+
+public class Person1 {
+	Account ac = new Account(10000);
+	ac.depositMoney(5000);
+	ac.withdrawMoney(3000);
+}

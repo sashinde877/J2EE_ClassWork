@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="javax.swing.text.StyledEditorKit.ForegroundAction"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="com.jspiders.musicplayer.operations.MusicOperation"/>
+    <fullyQualifiedTypeName name="com.jspiders.musicplayer.operations.Musicoperations"/>
+    <fullyQualifiedTypeName name="java.util.Iterator"/>
+    <fullyQualifiedTypeName name="com.jspiders.musicplayer.song.Song"/>
+    <fullyQualifiedTypeName name="com.jspiders.musicplayer.musicpl.MusicPlayer"/>
+    <fullyQualifiedTypeName name="com.jspiders.multithreading.threads.Mythread1"/>
+    <fullyQualifiedTypeName name="com.jspiders.multithreading.resources.Account"/>
+    <fullyQualifiedTypeName name="com.jspiders.multithreading.resources.Shop"/>
+    <fullyQualifiedTypeName name="com.jspiders.multithreading.threads.Customer"/>
+    <fullyQualifiedTypeName name="com.jspiders.multithreading.threads.Supplier"/>
+    <fullyQualifiedTypeName name="com.jspiders.multithreadingTask.resource.Resource"/>
+    <fullyQualifiedTypeName name="com.jspiders.multithreading.resources.Resource"/>
+    <fullyQualifiedTypeName name="com.jspiders.multithreading.threads.Thread1"/>
+    <fullyQualifiedTypeName name="java.lang.Thread"/>
+    <fullyQualifiedTypeName name="com.jspiders.multithreadingTask.resource.BikeResource"/>
+    <fullyQualifiedTypeName name="com.jspiders.multithreadingTask.threads.Suresh"/>
+    <fullyQualifiedTypeName name="com.jspiders.multithreadingTask.threads.Ramesh"/>
+</qualifiedTypeNameHistroy>

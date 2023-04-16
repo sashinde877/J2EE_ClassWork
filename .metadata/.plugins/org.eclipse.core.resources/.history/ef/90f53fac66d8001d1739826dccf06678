@@ -1,0 +1,5 @@
+package com.jspiders.multithreading.resources;
+
+public class Account {
+
+}
