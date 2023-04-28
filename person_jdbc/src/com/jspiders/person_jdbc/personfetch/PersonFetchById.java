@@ -27,6 +27,7 @@ public class PersonFetchById {
 				System.out.println("Id " + r.getInt(1));
 				System.out.println("Name: " + r.getString("name"));
 				System.out.println("Phone No: " + r.getInt(3));
+				System.out.println("------------*-*-------------------");
 			}
 			c.close();
 	}
